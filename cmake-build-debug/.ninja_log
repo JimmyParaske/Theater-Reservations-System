@@ -1,0 +1,6 @@
+# ninja log v5
+2	642	6754461837931196	build.ninja	444b365bed3819a7
+3	163	6753793803539443	CMakeFiles/clion_project.dir/p3190164-p3190114-res.c.obj	d385d50d4d8561f3
+2	150	6753738413386362	CMakeFiles/clion_project.dir/p3190164-p3190114.c.obj	86bda7b557e151c2
+164	399	6753793805853269	clion_project.exe	45158be5472ac182
+3	136	6752798254095968	CMakeFiles/clion_project.dir/test.c.obj	4b99ef01859a34de

@@ -1,7 +1,7 @@
 # Theater-Reservations-System
 
 Assignment for course: "**Operating Systems**"
-<br>Department of Computer Science, AUEB
+<br>*Department of Computer Science, AUEB*
 
 
 Theater reservation system using threads and mutexes

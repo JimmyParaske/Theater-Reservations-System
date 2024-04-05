@@ -20,16 +20,16 @@ of the customer with the cashier, which is done as soon as the
 execution of the agora method ends.
 
 At the end, the following results are printed:
-    • The seat plan
-    • The total revenue
-    • The percentage of transactions completed with each
+    <br>• The seat plan
+    <br>• The total revenue
+    <br>• The percentage of transactions completed with each
         of the three ways
-    • The average customer waiting time (from the moment
+    <br>• The average customer waiting time (from the moment
         appears until the customer speaks to the operator and
         if the transaction proceeds to payment, from the moment that
         the answering machine ends until the moment it takes over
         cashier)
-    • The average customer service time (from the moment
+    <br>• The average customer service time (from the moment
         the client appears, until it completes or fails
         reservation)
 

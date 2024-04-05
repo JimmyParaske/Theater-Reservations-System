@@ -1,4 +1,9 @@
 # Theater-Reservations-System
+
+Assignment for course: "Operating Systems"
+Department of Computer Science AUEB
+
+
 Theater reservation system using threads and mutexes
 
 The code utilizes threads and mutexes for concurrent execution and synchronization, allowing customers to reserve seats and processing their payments while keeping track of relevant statistics.
@@ -27,3 +32,8 @@ At the end, the following results are printed:
     • The average customer service time (from the moment
         the client appears, until it completes or fails
         reservation)
+
+
+
+The .sh file prompts the user to provide as input the path to
+where the .c and .h files are located
